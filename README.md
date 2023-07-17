@@ -45,7 +45,7 @@ Your application should be able to run locally using the `npm install` and `npm 
 
 Feel free to use your favorite packages or assistance via ChatGPT.
 
-Please note that the task is time-bound and should be completed within 3 hours.
+Please note that the task is time-bound and should be completed within 2 hours.
 
 ## Submission
 
